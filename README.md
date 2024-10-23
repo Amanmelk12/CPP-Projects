@@ -1,4 +1,4 @@
-# CppProjects
+# Cpp Projects
 
 A collection of C++ projects and examples, including various applications, algorithms, and utilities. This repository serves as a resource for learning and practicing C++ programming.
 
